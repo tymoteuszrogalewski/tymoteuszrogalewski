@@ -6,6 +6,8 @@ I love **electricity in every form** — from home heating and dynamic energy pr
 
 Away from the keyboard I build things with my hands: **custom furniture** (wardrobes, fitted kitchens), **tiling** and general construction work. As a teenager I spent most of my time on a bike.
 
+Since COVID started I go **winter swimming** in ice-cold water. Colds and sinus infections were with me for 40 years — now they are gone. **The human body can heal itself!**
+
 ---
 
 **[TymOS](https://github.com/tymoteuszrogalewski/tymos)** — my main project: a super-fast, lightweight smart home on a Raspberry Pi, running my house every day.
