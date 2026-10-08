@@ -14,6 +14,6 @@ Since COVID started I go **winter swimming** in ice-cold water. Colds and sinus 
 
 <img src="kiosk-ipad.jpg" width="360" alt="TymOS panel on a wall-mounted iPad">
 
-Smaller tools from it: [Zehnder ventilation over ESP32 + CAN](https://github.com/tymoteuszrogalewski/zehnder-comfoair-q-esp32), Polish energy prices ([Pstryk](https://github.com/tymoteuszrogalewski/pstryk-api), [TGE](https://github.com/tymoteuszrogalewski/tge-rdn)), [Energa meter data](https://github.com/tymoteuszrogalewski/energa-mojlicznik), [BleBox energy meter](https://github.com/tymoteuszrogalewski/blebox-energy-meter).
+Smaller tools from it: [Zehnder ventilation over ESP32 + CAN](https://github.com/tymoteuszrogalewski/zehnder-comfoair-q-esp32), Polish energy prices ([Pstryk](https://github.com/tymoteuszrogalewski/pstryk-api), [TGE](https://github.com/tymoteuszrogalewski/tge-rdn)), [Energa meter data](https://github.com/tymoteuszrogalewski/energa-mojlicznik), [BleBox energy meter](https://github.com/tymoteuszrogalewski/blebox-energy-meter), [48-hour weather widget](https://github.com/tymoteuszrogalewski/weather-widget).
 
 All code written by Claude AI — I bring the ideas and the direction.
