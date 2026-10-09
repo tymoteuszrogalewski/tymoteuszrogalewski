@@ -1,6 +1,6 @@
 ### Hi, I'm Tymoteusz 👋
 
-**Linux servers since I was a teenager** — ISPs, hosting, infrastructure. **Programming from Pascal and assembler to AI agents.**
+**Linux servers since I was a teenager** — ISPs, hosting, infrastructure. **Programming from Pascal and assembler to working with AI agents.**
 
 I love **electricity in every form** — from home heating and dynamic energy prices to passive houses, which I'm passionate about. I also work with **subtle energies** as a lightworker: Reiki, Kundalini and other multidimensional energies.
 
