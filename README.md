@@ -12,7 +12,7 @@ Since COVID started I go **winter swimming** in ice-cold water. Colds and sinus 
 
 **[TymOS](https://github.com/tymoteuszrogalewski/tymos)** — my main project: a super-fast, lightweight smart home on a Raspberry Pi, running my house every day.
 
-<img src="kiosk-ipad.jpg" width="360" alt="TymOS panel on a wall-mounted iPad">
+<img src="kiosk-ipad.jpg" width="360" alt="TymOS panel on a wall-mounted iPad"> <img src="phone-v1.jpg" width="360" alt="TymOS panel on a phone">
 
 **Smaller tools from it:**
 
